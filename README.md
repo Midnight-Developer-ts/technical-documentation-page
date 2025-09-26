@@ -80,7 +80,7 @@ This project was built to meet the user stories for the FreeCodeCamp Responsive 
 14. ✅ On larger devices, the navbar is fixed on the left side of the screen and remains visible.
 15. ✅ At least one media query is used for responsive design.
 
-✅ All user stories fulfilled, and the project passes FreeCodeCamp’s test suite.
+✅ All the FreeCodeCamp requirements are complete, and the project works as expected.
 
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
