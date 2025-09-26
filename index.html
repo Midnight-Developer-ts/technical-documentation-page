@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Documentation Page</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="icon" type="image/png" href="./images/website-favicon.png">
+    <meta name="description" content="Take our survey to help us improve our websites!">
+    <meta property="og:title" content="Survey Form">
+    <meta property="og:description" content="Help us improve our sites by filling out our survey.">
+    <meta property="og:image" content="./images/website-preview.jpeg">
+    <meta property="og:url" content="https://midnight-developer-ts.github.io/techinal-documentation-page/">
+    <meta property="og:type" content="website">
+  </head>
+  <body>
+    <main class="main" id="main-doc">
+      <nav id="navbar">
+          <header class="nav-header" id="HTML_CSS_Documentation">HTML CSS Documentation</header>
+          <a class="nav-link" href="#HTML_And_CSS_Page_Creation">HTML And CSS Page Creation</a>
+          <a class="nav-link" href="#Adjusting_Screen_Views">Adjusting Screen Views</a>
+          <a class="nav-link" href="#Adding_A_Head_Section">Adding A Head Section</a>
+          <a class="nav-link" href="#Adding_A_Body_Section">Adding A Body Section</a>
+          <a class="nav-link" href="#Adding_A_Main_Section">Adding A Main Section</a>
+      </nav>
+      <div class="main-content" id="main-content">
+        <!----- Section 1 ----->
+        <section class="main-section" id="HTML_And_CSS_Page_Creation">
+          <header class="headers">HTML And CSS Page Creation</header>
+          <p>Every web page begins with a basic structure. At minimum, you need HTML to describe the content and CSS to style it.</p>
+          <p>You first want to add a <code>&lt;!DOCTYPE&gt;</code> with the <code>'html';</code> attribute.</p>
+          <ul>
+            <li><code>&lt;!DOCTYPE html&gt;</code></li>
+          </ul>
+          <p>Next, you want to add an <code>&lt;html&gt;</code> element and add a <code>'lang'</code> attribute set to <code>'en'</code> for english.</p>
+          <ul>
+            <li><code>&lt;html lang="en"&gt;</code></li>
+          </ul>
+          <p>After that inside the <code>&lt;head&gt;</code>, you want to add a <code>&lt;link&gt;</code> attribute then you want to use a <code>'rel'</code> attribute with the value of <code>'stylesheet'</code>.</p>
+          <ul>
+            <li><code>&lt;head&gt;</code></li>
+            <li><code class="indent">&lt;link rel="stylesheet"&gt;</code></li>
+            <li><code>&lt;/head&gt;</code></li>
+          </ul>
+          <p>Then you want to use the <code>'href'</code> attribute with the value of <code>'styles.css'</code>.</p>
+          <ul>
+            <li><code>&lt;link rel="stylesheet" href="styles.css"&gt;</code></li>
+          </ul>
+        </section>
+        <!----- Section 2 ----->
+        <section class="main-section" id="Adjusting_Screen_Views">
+          <header class="headers">Adjusting Screen Views</header>
+          <p>To make your website responsive, include a viewport meta tag inside the <code>&lt;head&gt;</code> section. This tells browsers how to scale content on mobile devices.</p>
+          <ul> 
+            <li><code>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</code></li>
+          </ul>
+          <p>Without this, your page might look zoomed out on phones or tablets.</p>
+        </section>
+        <!----- Section 3 ----->
+        <section class="main-section" id="Adding_A_Head_Section">
+          <header class="headers">Adding A Head Section</header>
+          <p>The <code>&lt;head&gt;</code> contains information about your page that isn’t shown directly on the screen. It often includes:</p>
+          <ul>
+            <li><code>&lt;title&gt;</code> – sets the browser tab text.</li>
+            <li><code>&lt;meta charset="UTF-8"&gt;</code> – defines character encoding.</li>
+            <li><code>&lt;link&gt;</code> – connects stylesheets or icons.</li>
+          </ul>
+          <p>A &lt;head&gt; section goes after &lt;doctype&gt;, &lt;html&gt;, and &lt;link&gt;. &lt;Meta&gt;</code> is used within the head section.</p>
+        </section>
+        <!----- Section 4 ----->
+        <section class="main-section" id="Adding_A_Body_Section">
+          <header class="headers">Adding A Body Section</header>
+          <p>The <code>&lt;body&gt;</code> is where visible page content lives. Text, headings, links, images, and layouts all go here.</p>
+          <ul>
+            <li><code>&lt;body&gt;</code></li>
+              <li><code class="indent">&lt;h1&gt;Hello World!&lt;/h1&gt;</code></li>
+              <li><code class="indent">&lt;p&gt;This is a paragraph inside the body.&lt;/p&gt;</code></li>
+            <li><code>&lt;/body&gt;</code></li>
+          </ul>
+          <p>A &lt;body&gt; section goes after and under the &lt;head&gt; section not before it.</p>
+        </section>
+        <!----- Section 5 ----->
+        <section class="main-section" id="Adding_A_Main_Section">
+          <header class="headers">Adding A Main Section</header>
+          <p>The <code>&lt;main&gt;</code> element should contain the primary content of the page. It helps with accessibility and search engine optimization.</p>
+          <ul>
+            <li><code>&lt;main&gt;</code></li>
+              <li><code class="indent">&lt;section&gt;</code></li>
+              <li><code class="indent-2">&lt;h2&gt;Introduction&lt;/h2&gt;</code></li>
+              <li><code class="indent-2">&lt;p&gt;This is the main content area.&lt;/p&gt;</code></li>
+              <li><code class="indent">&lt;/section&gt;</code></li>
+            <li><code>&lt;/main&gt;</code></li>
+          </ul>
+          <p>Use <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, and <code>&lt;aside&gt;</code> inside <code>&lt;main&gt;</code> to organize your content meaningfully.</p>
+          <p>A &lt;main&gt; section goes within a &lt;body&gt; section not before it.</p>
+        </section>
+      </div>
+    </main>
+    <footer class="footer-dev">© 2025 | ♥ Designed By <a href="https://linktr.ee/midnightdeveloper">Midnight Developer</a></footer>
+  </body>
+</html>
