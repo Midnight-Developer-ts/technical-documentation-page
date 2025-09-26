@@ -79,6 +79,8 @@ This project was built to meet the user stories for the FreeCodeCamp Responsive 
 13. ✅ Clicking a .nav-link scrolls to the corresponding section in #main-doc.
 14. ✅ On larger devices, the navbar is fixed on the left side of the screen and remains visible.
 15. ✅ At least one media query is used for responsive design.
+<br>
+
 ✅ All user stories fulfilled, and the project passes FreeCodeCamp’s test suite.
 
 ## 📸 Preview
