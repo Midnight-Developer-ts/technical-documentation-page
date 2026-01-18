@@ -4,7 +4,7 @@
 This project is part of my FreeCodeCamp Responsive Web Design certification.
 The objective was to build a technical documentation page using only HTML and CSS.
 
-The goal of this Technical Documentation Page is to help beginner developers understand the fundamentals of HTML and CSS. The page provides clear instructions and code examples that explain how to create a basic HTML structure and properly link a CSS file, which are essential first steps in web development. The documentation includes a fixed navigation menu positioned on the left for desktop screens, allowing users to jump between sections and learn each step in sequence. On smaller screen sizes, the navigation layout adjusts and moves to the top of the page to maintain readability and usability. Topics covered include setting up the document structure, adjusting layouts for different screen sizes, and understanding key elements such as the `&lt;head&gt;`, `&lt;body&gt;`, and `&lt;main&gt;` sections.
+The goal of this Technical Documentation Page is to help beginner developers understand the fundamentals of HTML and CSS. The page provides clear instructions and code examples that explain how to create a basic HTML structure and properly link a CSS file, which are essential first steps in web development. The documentation includes a fixed navigation menu positioned on the left for desktop screens, allowing users to jump between sections and learn each step in sequence. On smaller screen sizes, the navigation layout adjusts and moves to the top of the page to maintain readability and usability. Topics covered include setting up the document structure, adjusting layouts for different screen sizes, and understanding key elements such as the `<head>`, `<body>`, and `<main>` sections.
 
 ## ✨ Features
 - Fixed side navigation bar for quick access to sections.
@@ -55,7 +55,7 @@ technical-documentation-page/
 
 ## 📌 Learning Goals
 - Built a multi-section documentation page with semantic structure.
-- Used semantic HTML elements like `&lt;main&gt;`, `&lt;section&gt;`, `&lt;nav&gt;`, and `&lt;footer&gt;`.
+- Used semantic HTML elements like `<main>`, `<section>`, `<nav>`, and `<footer>`.
 - Implemented a fixed-position sidebar navigation with CSS.
 - Applied responsive design techniques using media queries.
 - Styled inline code snippets and blocks for readability.
@@ -65,12 +65,12 @@ technical-documentation-page/
 This project was built to meet the user stories for the FreeCodeCamp Responsive Web Design – Technical Documentation Page certification project:
 
 1. ✅ A main element with id="main-doc" contains the page’s main content.
-2. ✅ At least five `&lt;section&gt`; elements with the class main-section.
+2. ✅ At least five `<section>`; elements with the class main-section.
 3. ✅ The first element in each .main-section is a header describing the topic.
 4. ✅ Each .main-section has an id matching its header text (spaces replaced with underscores).
-5. ✅ There are at least 10 `&lt;p&gt`; elements total across sections.
-6. ✅ There are at least 5 `&lt;code&gt`; elements total across sections.
-7. ✅ There are at least 5 `&lt;li&gt`; list items total across sections.
+5. ✅ There are at least 10 `<p>`; elements total across sections.
+6. ✅ There are at least 5 `<code>`; elements total across sections.
+7. ✅ There are at least 5 `<li>`; list items total across sections.
 8. ✅ A nav element with id="navbar" is present.
 9. ✅ The navbar contains a header describing the documentation topic.
 10. ✅ The navbar contains link (a) elements with class nav-link, one for each .main-section.
