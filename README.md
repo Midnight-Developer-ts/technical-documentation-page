@@ -28,7 +28,7 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 - Project documentation writing
 
 ## 🚀 How to Use
-<a href="https://midnight-developer-ts.github.io/technical-documentation-page/">Click here to view the project</a>
+[`View Live Project`](https://midnight-developer-ts.github.io/technical-documentation-page/)
 
 1. Use the navigation bar to jump between documentation sections.
 2. Read through code examples and explanations for each HTML/CSS concept.
@@ -67,12 +67,11 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
 
-[View Live Project](https://midnight-developer-ts.github.io/technical-documentation-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/technical-documentation-page/)
 
 ## 📄 License 
-
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Source Code Proprietary License. 
+This project is licensed under a Midnight Developer Proprietary License. 
 See the [LICENSE](https://github.com/Midnight-Developer-ts/technical-documentation-page/blob/main/LICENSE) file for full terms.
