@@ -4,7 +4,7 @@
 This project is part of my FreeCodeCamp Responsive Web Design certification.
 The objective was to build a technical documentation page using only HTML and CSS.
 
-The page serves as a beginner-friendly reference for creating and structuring a simple website with HTML and CSS. It demonstrates semantic elements, layout techniques, and responsive design principles.
+The goal of this Technical Documentation Page is to help beginner developers understand the fundamentals of HTML and CSS. The page provides clear instructions and code examples that explain how to create a basic HTML structure and properly link a CSS file, which are essential first steps in web development. The documentation includes a fixed navigation menu positioned on the left for desktop screens, allowing users to jump between sections and learn each step in sequence. On smaller screen sizes, the navigation layout adjusts and moves to the top of the page to maintain readability and usability. Topics covered include setting up the document structure, adjusting layouts for different screen sizes, and understanding key elements such as the `&lt;head&gt;`, `&lt;body&gt;`, and `&lt;main&gt;` sections.
 
 ## ✨ Features
 - Fixed side navigation bar for quick access to sections.
@@ -16,21 +16,19 @@ The page serves as a beginner-friendly reference for creating and structuring a 
 - Footer with developer credit and external link.
 
 ## 🛠️ Built With
-HTML – semantic structure and documentation content
+HTML – semantic structure, multi-section layout, documentation content
 
-CSS – styling, layout, navigation, and responsive design.
+CSS – styling, responsive layout, fixed navigation, hover effects
 
 ## 🧰 Skills Demonstrated
 - Semantic HTML structuring
-- Responsive design with CSS media queries
+- CSS media queries for responsiveness
 - Fixed-position navigation layout
 - Clean code formatting and commenting
 - Project documentation writing
 
 ## 🚀 How to Use
 <a href="https://midnight-developer-ts.github.io/technical-documentation-page/">Click here to view the project</a>
-
-Or clone/download this repository and open index.html in your browser.
 
 1. Use the navigation bar to jump between documentation sections.
 2. Read through code examples and explanations for each HTML/CSS concept.
@@ -39,23 +37,25 @@ Or clone/download this repository and open index.html in your browser.
 ## 📂 Project Structure
 technical-documentation-page/
 
-│── index.html # main webpage
+│── index.html `main webpage`
 
-│── css/
+│── css/ `styling folder`
 
-│ └── styles.css # styling
+│ └── styles.css `styling`
 
-│── images/
+│── images/ `image folder`
 
-│ └── website-favicon.png # favicon
+│ └── website-favicon.png `favicon`
 
-│ └── website-preview.jpeg # preview image
+│ └── website-preview.jpeg `preview image`
 
-│── README.md # project details
+│── LICENSE `license details`
+
+│── README.md `project details`
 
 ## 📌 Learning Goals
 - Built a multi-section documentation page with semantic structure.
-- Used semantic HTML elements like &lt;main&gt;, &lt;section&gt;, &lt;nav&gt;, and &lt;footer&gt;.
+- Used semantic HTML elements like `&lt;main&gt;`, `&lt;section&gt;`, `&lt;nav&gt;`, and `&lt;footer&gt;`.
 - Implemented a fixed-position sidebar navigation with CSS.
 - Applied responsive design techniques using media queries.
 - Styled inline code snippets and blocks for readability.
@@ -65,12 +65,12 @@ technical-documentation-page/
 This project was built to meet the user stories for the FreeCodeCamp Responsive Web Design – Technical Documentation Page certification project:
 
 1. ✅ A main element with id="main-doc" contains the page’s main content.
-2. ✅ At least five &lt;section&gt; elements with the class main-section.
+2. ✅ At least five `&lt;section&gt`; elements with the class main-section.
 3. ✅ The first element in each .main-section is a header describing the topic.
 4. ✅ Each .main-section has an id matching its header text (spaces replaced with underscores).
-5. ✅ There are at least 10 &lt;p&gt; elements total across sections.
-6. ✅ There are at least 5 &lt;code&gt; elements total across sections.
-7. ✅ There are at least 5 &lt;li&gt; list items total across sections.
+5. ✅ There are at least 10 `&lt;p&gt`; elements total across sections.
+6. ✅ There are at least 5 `&lt;code&gt`; elements total across sections.
+7. ✅ There are at least 5 `&lt;li&gt`; list items total across sections.
 8. ✅ A nav element with id="navbar" is present.
 9. ✅ The navbar contains a header describing the documentation topic.
 10. ✅ The navbar contains link (a) elements with class nav-link, one for each .main-section.
@@ -84,3 +84,13 @@ This project was built to meet the user stories for the FreeCodeCamp Responsive 
 
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
+
+[View Live Project](https://midnight-developer-ts.github.io/technical-documentation-page/)
+
+## 📄 License 
+
+This project is provided for portfolio and educational review only. 
+Copying, redistribution, or commercial use is prohibited. 
+
+This project is licensed under a Custom Proprietary License. 
+See the LICENSE file for full terms. 
