@@ -60,27 +60,9 @@ technical-documentation-page/
 - Applied responsive design techniques using media queries.
 - Styled inline code snippets and blocks for readability.
 
-## 🎯 Certification Project Requirement Checklist
-
-This project was built to meet the user stories for the FreeCodeCamp Responsive Web Design – Technical Documentation Page certification project:
-
-1. ✅ A main element with id="main-doc" contains the page’s main content.
-2. ✅ At least five `<section>`; elements with the class main-section.
-3. ✅ The first element in each .main-section is a header describing the topic.
-4. ✅ Each .main-section has an id matching its header text (spaces replaced with underscores).
-5. ✅ There are at least 10 `<p>`; elements total across sections.
-6. ✅ There are at least 5 `<code>`; elements total across sections.
-7. ✅ There are at least 5 `<li>`; list items total across sections.
-8. ✅ A nav element with id="navbar" is present.
-9. ✅ The navbar contains a header describing the documentation topic.
-10. ✅ The navbar contains link (a) elements with class nav-link, one for each .main-section.
-11. ✅ The header in the navbar appears before the links.
-12. ✅ Each .nav-link text matches the corresponding section header.
-13. ✅ Clicking a .nav-link scrolls to the corresponding section in #main-doc.
-14. ✅ On larger devices, the navbar is fixed on the left side of the screen and remains visible.
-15. ✅ At least one media query is used for responsive design.
-
-✅ All the FreeCodeCamp requirements are complete, and the project works as expected.
+## 🎯 Certification Compliance
+This project fully meets all FreeCodeCamp Responsive Web Design
+Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
