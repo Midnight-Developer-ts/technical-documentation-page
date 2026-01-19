@@ -35,7 +35,7 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 3. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-technical-documentation-page/
+technical-documentation-page/ `root file`
 
 │── index.html `main webpage`
 
