@@ -1,4 +1,4 @@
-# 📘 Technical Documentation Page
+# 📘 Midnight Developers Technical Documentation Page
 
 ## 📖 Overview
 This project is part of my FreeCodeCamp Responsive Web Design certification.
@@ -16,9 +16,8 @@ The goal of this Technical Documentation Page is to help beginner developers und
 - Footer with developer credit and external link.
 
 ## 🛠️ Built With
-HTML – semantic structure, multi-section layout, documentation content
-
-CSS – styling, responsive layout, fixed navigation, hover effects
+- HTML – structure
+- CSS – styling
 
 ## 🧰 Skills Demonstrated
 - Semantic HTML structuring
@@ -28,14 +27,14 @@ CSS – styling, responsive layout, fixed navigation, hover effects
 - Project documentation writing
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/technical-documentation-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-technical-documentation-page/)
 
 1. Use the navigation bar to jump between documentation sections.
 2. Read through code examples and explanations for each HTML/CSS concept.
 3. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-technical-documentation-page/ `root file`
+technical-documentation-page/ `root folder`
 
 │── index.html `main webpage`
 
@@ -67,11 +66,11 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/technical-documentation-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developer-technical-documentation-page/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
 This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/technical-documentation-page/blob/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Midnight-Developer-ts/midnight-developer-technical-documentation-page/blob/main/LICENSE) file for full terms.
