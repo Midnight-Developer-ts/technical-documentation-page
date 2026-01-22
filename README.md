@@ -1,4 +1,4 @@
-# 📘 Midnight Developers Technical Documentation Page
+# 📘 Midnight Developer's Technical Documentation Page
 
 ## 📖 Overview
 This project is part of my FreeCodeCamp Responsive Web Design certification.
@@ -34,7 +34,7 @@ The goal of this Technical Documentation Page is to help beginner developers und
 3. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-technical-documentation-page/ `root folder`
+midnight-developers-technical-documentation-page/ `root folder`
 
 │── index.html `main webpage`
 
@@ -42,7 +42,7 @@ technical-documentation-page/ `root folder`
 
 │ └── styles.css `styling`
 
-│── images/ `image folder`
+│── img/ `image folder`
 
 │ └── website-favicon.png `favicon`
 
@@ -64,7 +64,7 @@ This project fully meets all FreeCodeCamp Responsive Web Design
 Technical Documentation Page user stories and requirements.
 
 ## 📸 Preview
-![Technical Documentation Page Screenshot](./images/website-preview.jpeg)
+![Technical Documentation Page Screenshot](./img/website-preview.jpeg)
 
 [`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-technical-documentation-page/)
 
