@@ -1,4 +1,4 @@
-# 📘 Midnight Developer's Technical Documentation Page
+# 📘 Vynxcode's Technical Documentation Page
 
 ## 📖 Overview
 This project is part of my FreeCodeCamp Responsive Web Design certification.
@@ -27,14 +27,14 @@ The goal of this Technical Documentation Page is to help beginner developers und
 - Project documentation writing
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-technical-documentation-page/)
+[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-technical-documentation-page/)
 
 1. Use the navigation bar to jump between documentation sections.
 2. Read through code examples and explanations for each HTML/CSS concept.
 3. Resize the browser window to see responsive adjustments.
 
 ## 📂 Project Structure
-midnight-developers-technical-documentation-page/ `root folder`
+vynxcodes-technical-documentation-page/ `root folder`
 
 │── index.html `main webpage`
 
@@ -44,7 +44,7 @@ midnight-developers-technical-documentation-page/ `root folder`
 
 │── img/ `image folder`
 
-│ └── website-favicon.png `favicon`
+│ └── website-favicon.svg `favicon`
 
 │ └── website-preview.jpeg `preview image`
 
@@ -66,11 +66,11 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview
 ![Technical Documentation Page Screenshot](./img/website-preview.jpeg)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-technical-documentation-page/)
+[`View Live Project`](https://vynxcode-ts.github.io/vynxcodes-technical-documentation-page/)
 
 ## 📄 License 
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/midnight-developers-technical-documentation-page/blob/main/LICENSE) file for full terms.
+This project is licensed under a Vynxcode Proprietary License. 
+See the [LICENSE](https://github.com/vynxcode-ts/vynxcodes-technical-documentation-page/blob/main/LICENSE) file for full terms.
